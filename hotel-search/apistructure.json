@@ -1,0 +1,276 @@
+{
+  "hyderabad": [
+      {
+          "name": "Novotel Hyderabad Convention Centre",
+          "description": "Contemporary business hotel with an outdoor pool, a spa & a fitness centre, plus restaurants.",
+          "location": "https://www.google.com/maps/search/Novotel+Hyderabad+Convention+Centre/@17.4731124,78.3697121,16.84z?hl=en&entry=ttu&g_ep=EgoyMDI1MDIxMi4wIKXMDSoASAFQAw%3D%3D",
+          "image": [
+              "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAGllTwQFAFWhMMdQ6jylHW9XmJvRxJ8",
+              "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/ba/13/30/novotel-hyderabad-convention.jpg?w=2100&h=1400&s=1",
+              "https://lh5.googleusercontent.com/p/AF1QipMzkXFsLqe0oMcb81v_M7u94kpyPEWkr96dFF08=s10000",
+              "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/5/0/93/174/237/6182_bab003_03_p_3000x2250_O.jpg",
+              "https://lh5.googleusercontent.com/p/AF1QipMh1Ay4j1_BRZsyZYIejrUoyLV5GBaKydGrFWML=s10000"
+          ],
+          "features": [
+              "two beds",
+              "hotel room",
+              "desk",
+              "palm tree",
+              "large pool",
+              "rock",
+              "swimming pool",
+              "hotel",
+              "restaurant",
+              "bar",
+              "food",
+              "buffet",
+              "spa",
+              "fitness centre",
+              "business hotel"
+          ],
+          "nearby_places": [
+              {
+                  "name": "Rajiv Gandhi International Airport",
+                  "transportations": [
+                      {
+                          "type": "Taxi",
+                          "duration": "50 min"
+                      },
+                      {
+                          "type": "Public transport",
+                          "duration": "1 hr 48 min"
+                      }
+                  ]
+              },
+              {
+                  "name": "7 Sisters - Hitex ( North East and Pan-Asian Restaurant )",
+                  "transportations": [
+                      {
+                          "type": "Taxi",
+                          "duration": "8 min"
+                      }
+                  ]
+              }
+          ],
+          "price": 1346,
+          "rating": 4.6
+      },
+      {
+          "name": "Zostel Hyderabad",
+          "description": "Simple dorms & private rooms in a casual hostel offering a cafe & a roof patio with lake views.",
+          "location": "https://www.google.com/maps/search/Zostel%20Hyderabad/@17.4380919,78.392624,16.84z?hl=en&entry=ttu&g_ep=EgoyMDI1MDIxMi4wIKXMDSoASAFQAw%3D%3D",
+          "nearby_places": [
+              {
+                  "name": "Sri Peddamma Talli Temple",
+                  "transportations": [
+                      {
+                          "type": "Taxi",
+                          "duration": "7 min"
+                      }
+                  ]
+              },
+              {
+                  "name": "Cable Bridge",
+                  "transportations": [
+                      {
+                          "type": "Walking",
+                          "duration": "6 min"
+                      }
+                  ]
+              },
+              {
+                  "name": "Rajiv Gandhi International Airport",
+                  "transportations": [
+                      {
+                          "type": "Taxi",
+                          "duration": "42 min"
+                      },
+                      {
+                          "type": "Public transport",
+                          "duration": "1 hr 35 min"
+                      }
+                  ]
+              },
+              {
+                  "name": "Baby Lamb - Restaurant Hyderabad",
+                  "transportations": [
+                      {
+                          "type": "Walking",
+                          "duration": "7 min"
+                      }
+                  ]
+              }
+          ],
+          "image": [
+              "https://lh5.googleusercontent.com/p/AF1QipOeNFArVRGcjLtIIhBP_-MZ4pXPE640QNinfFye=s10000",
+              "https://lh5.googleusercontent.com/p/AF1QipM51eVlAqdVvmOYkeoge02mBELY_bh0dy-lwCEN=s10000",
+              "https://lh5.googleusercontent.com/p/AF1QipN4XNmCNoV_Tv921Bm-_KBNzjneGPVknz11bwjj=s10000",
+              "https://lh5.googleusercontent.com/p/AF1QipNDmVwvEvNvJg4T9IXQKvS5VLY0o7jK0l1klsHO=s10000",
+              "https://lh5.googleusercontent.com/p/AF1QipPm0-fBd5DFbekCp9Utomonafga-1MerNgaCtkX=s10000"
+          ],
+          "features": [
+              "room",
+              "bunks",
+              "bed",
+              "palm tree",
+              "table",
+              "patio",
+              "chairs",
+              "wooden table sitting",
+              "lawn",
+              "top",
+              "colorful mural",
+              "wall",
+              "restaurant",
+              "lake",
+              "Breakfast",
+              "Free Wi-Fi",
+              "Free parking",
+              "Outdoor pool",
+              "Air conditioning",
+              "Fitness centre",
+              "Bar",
+              "Restaurant",
+              "Room service",
+              "Full-service laundry",
+              "Accessible",
+              "Business centre",
+              "Child-friendly"
+          ],
+          "price": 145,
+          "rating": 4.4
+      },
+      {
+          "name": "Taj Deccan",
+          "description": "Upscale quarters in a swanky hotel featuring 2 restaurants, an outdoor pool & a gym, plus a bar.",
+          "location": "https://www.google.com/maps/search/Taj%20Deccan/@17.4179195,78.4507645,16.84z?hl=en&entry=ttu&g_ep=EgoyMDI1MDIxMi4wIKXMDSoASAFQAw%3D%3D",
+          "nearby_places": [
+              {
+                  "name": "Banjara Hills Road No 7 / Taj Krishna",
+                  "transportations": [
+                      {
+                          "type": "Walking",
+                          "duration": "6 min"
+                      }
+                  ]
+              },
+              {
+                  "name": "Rajiv Gandhi International Airport",
+                  "transportations": [
+                      {
+                          "type": "Taxi",
+                          "duration": "49 min"
+                      },
+                      {
+                          "type": "Public transport",
+                          "duration": "1 hr 20 min"
+                      }
+                  ]
+              },
+              {
+                  "name": "Firdaus",
+                  "transportations": [
+                      {
+                          "type": "Walking",
+                          "duration": "6 min"
+                      }
+                  ]
+              }
+          ],
+          "image": [
+              "https://cdn.worldota.net/t/1024x768/content/53/83/53837846f1a03b584667b4e999b2d559df2f9d53.jpeg",
+              "https://lh5.googleusercontent.com/p/AF1QipNJ0UbSf6S1KuFnsBRLX6HvXbWJjT6RpkwmiMsl=s10000",
+              "https://lh5.googleusercontent.com/p/AF1QipPoEotzFfCjxUBOFFrq7xNcZhnRJZDU0owjSW-p=s10000",
+              "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/3/0/75/442/939/Arena_O.jpg",
+              "https://lh5.googleusercontent.com/p/AF1QipM0WBOW7dUw_eqCA87auud3QztyZ8BjYsE_-f4C=s10000"
+          ],
+          "features": [
+              "Free breakfast",
+              "Free Wi-Fi",
+              "Free parking",
+              "Outdoor pool",
+              "Hot tub",
+              "Air conditioning",
+              "Fitness centre",
+              "Spa",
+              "Bar",
+              "Restaurant",
+              "Room service",
+              "Kitchen in some rooms",
+              "Airport shuttle",
+              "Full-service laundry",
+              "Accessible",
+              "Business centre",
+              "Child-friendly",
+              "room",
+              "bunks",
+              "bed"
+          ],
+          "price": 819,
+          "rating": 4.4
+      },
+      {
+        "name":"Taj Falaknuma Palace, Hyderabad",
+        "description":"Elegant rooms & suites in a grand hotel offering upscale dining & a spa, plus an outdoor pool.",
+        "location":"https://www.google.com/maps/search/Taj+Falaknuma+Palace+Hyderabad/@17.3314792,78.4674647,16.84z?hl=en&entry=ttu&g_ep=EgoyMDI1MDIxMi4wIKXMDSoASAFQAw%3D%3D",
+        "nearby_places":[
+          {
+            "name": "Rajiv Gandhi International Airport",
+            "transportations": [
+              {
+                "type": "Taxi",
+                "duration": "39 min"
+              },
+              {
+                "type": "Public transport",
+                "duration": "1 hr 3 min"
+              }
+            ]
+          },
+          {
+            "name": "Gol Banglow Unique Dining - Taj Falaknuma",
+            "transportations": [
+              {
+                "type": "Walking",
+                "duration": "2 min"
+              }
+            ]
+          }
+        ],
+        "image":[
+          "https://lh5.googleusercontent.com/p/AF1QipPh8GtioOde5LEHnLSSfHX0Gnh2uhtNwFDeIG2d=s10000",
+
+          "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/3/0/77/622/68/Night_View_from_the_Balcony_O.jpg",
+
+          "https://lh5.googleusercontent.com/p/AF1QipMhCtDKp4FndEtlaxOmKzAvETffGIPjXhe_to3g=s10000",
+
+          "https://lh5.googleusercontent.com/p/AF1QipME0G6SRbv6IsUnBfOCiwgflLc4h9n8XibqO2jC=s10000",
+          "https://lh5.googleusercontent.com/p/AF1QipPMFWPv8HU4s9Oo0KrLU03eQnpGA7C2P9JleX2M=s10000"
+          ],
+          "features":[
+            "Free breakfast",
+            "Free Wi-Fi",
+            "Parking",
+            "Outdoor pool",
+            "Hot tub",
+            "Air conditioning",
+            "Fitness centre",
+            "Spa",
+            "Bar",
+            "Restaurant",
+            "Room service",
+            "Kitchen in rooms",
+            "Airport shuttle",
+            "Full-service laundry",
+            "Accessible",
+            "Business centre",
+            "Child-friendly"
+          ],
+          "price":8128,
+          "rating": 4.7
+      },
+      {
+        
+      }
+  ]
+}
