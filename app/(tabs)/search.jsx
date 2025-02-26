@@ -5,12 +5,26 @@ import AntDesign from "@expo/vector-icons/AntDesign";
 import { useNavigation } from "expo-router";
 import Feather from "@expo/vector-icons/Feather";
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
-
+import { useContext } from "react";
+import UseContext from "../../context/LocationContext";
 export default function Search() {
+  const {location} = useContext(UseContext);
   const navigation = useNavigation();
   const navigateOnPress = () => {
     navigation.navigate("home");
   };
+
+// take input text, voice or image 
+// send to feature-extraction backend
+// 
+  const fetch = async()=>{
+    const url = `https://serpapi.com/search.json?engine=google_hotels&q=${location}&check_in_date=2025-02-23&check_out_date=2025-02-24&adults=2&currency=USD&gl=us&hl=en&api_key=010a3402db41cbf63222d4a2432478ec9c3cabcfbb714de65f34c2fc55971cdf&amenities=pool,spa,free_wifi`
+    const data = await fetch(url);
+    const response = await data.json();
+    const tempDataofHotels = response.properties;
+    console.log(tempDataofHotels);
+  }
+
 
   return (
     <View style={styles.container}>

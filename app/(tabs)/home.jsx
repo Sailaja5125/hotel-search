@@ -6,16 +6,17 @@ import { Link } from 'expo-router';
 import { useUser } from '@clerk/clerk-react';
 import Slider from '../../components/Home/slider';
 import { useState } from 'react';
+import { useContext } from 'react';
+import UseContext from '../../context/LocationContext';
 
 export default function Home() {
   const { user } = useUser();
-  const [search, setSearch] = useState(null);
+  const [search, setSearch] = useContext(UseContext);
   const [hotel, setHotel] = useState([]);
 
-  const handleChange = (text) => {
-    setSearch(text);
+  const handleChange = (e) => {
+    setSearch(e.target.value);
   };
-
   const fetchApi = async () => {
     const url = `https://serpapi.com/search.json?engine=google_hotels&q=${search}&check_in_date=2025-02-23&check_out_date=2025-02-24&adults=2&currency=USD&gl=us&hl=en&api_key=010a3402db41cbf63222d4a2432478ec9c3cabcfbb714de65f34c2fc55971cdf`;
     const data = await fetch(url);
