@@ -1,0 +1,9 @@
+// make an context api for the search location in the home and use that in this location -- done
+// do the feature extractions from the text , image , voice from the search text using the backend api's 
+// give the keywords to this api and you will get the info of the hotel 
+// that can be shown as slider components 
+// create a hotel page and on clicking show the details of the hotel 
+// create the context api of the page consisting the hotel name , location , user name , hotel image , price , booking data , price paid and other details 
+// create a backend implementing all of this using a schema and store it in the data base and design the backend using flask
+// and on clicking checkout go to booking.jsx page and enter the details of the hotel
+
